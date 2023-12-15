@@ -1,7 +1,7 @@
 package rules
 
 import (
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/mi3aka/clash-backup/constant"
 )
 
 type Final struct {

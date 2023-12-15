@@ -6,8 +6,8 @@ import (
 	"net"
 	"strconv"
 
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/tunnel"
+	C "github.com/mi3aka/clash-backup/constant"
+	"github.com/mi3aka/clash-backup/tunnel"
 
 	"github.com/riobard/go-shadowsocks2/socks"
 	log "github.com/sirupsen/logrus"

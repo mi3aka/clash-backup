@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"strconv"
 
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/mi3aka/clash-backup/constant"
 
 	"github.com/riobard/go-shadowsocks2/core"
 	"github.com/riobard/go-shadowsocks2/socks"
